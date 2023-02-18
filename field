@@ -1,0 +1,19 @@
+""{
+    "firstname" : "santosh",
+    "lastname" : "chhetri thapa",
+    "email" : "chhetri@gmail.com",
+    "password" : "12345687"
+}
+
+{
+    "success": true,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTNhNjAyYmJjZWFjNDgxNTI0ZjM2NyIsImVtYWlsIjoiY2hoZXRyaUBnbWFpbC5jb20iLCJpYXQiOjE2NzU4NjQwNzIsImV4cCI6MTY3NTg3MTI3Mn0.YSUj8-DsSk8bH57LUpkIzIp6QLHEsCEYlkcBcoWjkj0",
+    "user": {
+        "_id": "63e3a602bbceac481524f367",
+        "firstname": "santosh",
+        "lastname": "chhetri thapa",
+        "email": "chhetri@gmail.com",
+        "__v": 0,
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZTNhNjAyYmJjZWFjNDgxNTI0ZjM2NyIsImVtYWlsIjoiY2hoZXRyaUBnbWFpbC5jb20iLCJpYXQiOjE2NzU4NjQwNzIsImV4cCI6MTY3NTg3MTI3Mn0.YSUj8-DsSk8bH57LUpkIzIp6QLHEsCEYlkcBcoWjkj0"
+    }
+}""
